@@ -1,0 +1,193 @@
+body{
+    margin:0px;
+}
+
+.top-container{
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    background: rgba(20, 39, 74, 0.5);
+    background-image: url(images/home\ page.png);
+    background-size: cover;
+}
+
+h4{
+    position: absolute;
+    margin-left: 8.12%;
+    margin-top: 1.36%;
+    font-family: adobe-garamond-pro, serif;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0.15em;
+    color: #14274A
+}
+
+.bar{
+    font-family: montserrat, sans-serif;
+    font-size: 25px;
+    line-height: 30px;
+}
+.home{
+    font-weight: bold;
+    position: absolute;
+    margin-top: 1.82%;
+    margin-left: 40.74%;
+    color: #FFFFFF
+}
+
+.facilities{
+    position: absolute;
+    margin-left: 49.51%;
+    margin-right: 32.81%;
+    margin-top: 1.82%;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.rooms{
+    position: absolute;
+    margin-left: 60.59%;
+    margin-right: 22.77%;
+    margin-top: 1.82%;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.contact{
+    position: absolute;
+    margin-left: 69.81%;
+    margin-top: 1.82%;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.welcome{
+    position: absolute;
+    inline-size: inherit;
+    margin-left: 8.12%;
+    margin-top: 17.55%;
+    font-family: Montserrat;
+    font-size: 50px;
+    line-height: 61px;
+    font-weight: normal;
+    color: #FFFFFF;
+}
+
+.merk{
+    position: absolute;
+    margin-left: 8.12%;
+    margin-top: 20.03%;
+    font-family: adobe-garamond-pro, serif;
+    font-weight: bold;
+    font-size: 150px;
+    line-height: 185px;
+    letter-spacing: 0.07em;
+    color: #FFFFFF;
+}
+
+.hotel{
+    position: absolute;
+    margin-left: 8.12%;
+    margin-top: 28.03%;
+    font-family: adobe-garamond-pro, serif;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 61px;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+}
+
+.ket{
+    position: absolute;
+    margin-left:  8.12%;
+    margin-top: 32.03%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 30px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+.myButton {
+    margin-left: 40%;
+    margin-top: 37.03%;
+	background-color:#c79125;
+	border-radius:10px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#cfb92c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.middle-container{
+    position: absolute;
+    margin-top: 80%;
+}
+
+h3{
+    margin-left: 70%;
+    font-family: Montserrat;
+    inline-size: 100%;
+    font-size: 22px;
+    line-height: 44px;
+    color: #14274A;
+}
+
+h2{
+    margin-left: 20.12%;
+    font-family: adobe-garamond-pro, serif;
+    font-size: 53px;
+    line-height: 40px;
+    color: #14274A;
+}
+
+.keter{
+    float: right;
+    font-family: Montserrat;
+    margin-right: 9.12%;
+    font-size:20px;
+}
+
+.kamar{
+    text-align: start;
+    float: right;
+    width:25%;
+    margin-right: 15%;
+}
+
+.footer-container{
+    margin-top: 130%;
+    padding-right: 100%;
+    position: absolute;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    background-color: #14274A;
+}
+
+.text-bottom{
+    margin-left: 100%;
+    margin-right: 100%;
+    text-align: center;
+    color:white;
+    font-family: Montserrat;
+    
+    
+}
